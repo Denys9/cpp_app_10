@@ -5,7 +5,6 @@
 #include <ctime>
 using namespace std;
 
-void reversed(int arr[], const int size);
 
 int main()
 {
